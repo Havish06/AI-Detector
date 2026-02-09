@@ -1,0 +1,5 @@
+{
+  "name": "VeriSight AI Forensic Lab",
+  "description": "A high-precision image analysis tool that uses advanced neural networks to detect whether a photo is real or AI-generated, providing detailed forensic insights.",
+  "requestFramePermissions": []
+}
